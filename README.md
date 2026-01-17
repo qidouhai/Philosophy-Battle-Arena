@@ -1,3 +1,5 @@
+
+
 # 🧠 语言哲学对垒 | AI裁判全球排名战
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -36,12 +38,12 @@
 ## 🚀 快速开始
 
 ### 在线体验
-直接访问：[https://gitee.com/qihai/ThinkTop](https://gitee.com/qihai/ThinkTop)
+直接访问：[https://your-deploy-link.com](https://your-deploy-link.com)
 
 ### 本地运行
 ```bash
 # 克隆项目
-git clone https://gitee.com/qihai/ThinkTop.git
+git clone https://github.com/qidouhai/Philosophy-Battle-Arena.git
 
 # 进入项目目录
 cd philosophy-battle-arena
@@ -76,7 +78,7 @@ python -m http.server 8000
 ## 📁 项目结构
 
 ```
-philosophy-battle-arena/
+Philosophy-Battle-Arena/
 ├── index.html          # 主页面
 ├── README.md          # 项目说明
 ├── assets/            # 资源文件
@@ -213,15 +215,15 @@ function evaluatePhilosophy(text) {
 
 ## 📞 联系我们
 
-- **项目主页**: [https://gitee.com/qihai/ThinkTop](https://gitee.com/qihai/ThinkTop)
-- **问题反馈**: [Issues](https://gitee.com/qihai/ThinkTop/issues)
-- **讨论区**: [Discussions](https://gitee.com/qihai/ThinkTop/discussions)
+- **项目主页**: [https://github.com/qidouhai/Philosophy-Battle-Arena](https://github.com/qidouhai/Philosophy-Battle-Arena)
+- **问题反馈**: [Issues](https://github.com/qidouhai/Philosophy-Battle-Arena/issues)
+- **讨论区**: [Discussions](https://github.com/qidouhai/Philosophy-Battle-Arena/discussions)
 
 ---
 
 ## 🌟 星星历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/philosophy-battle-arena&type=Date)](https://star-history.com/#yourusername/philosophy-battle-arena&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=qidouhai/Philosophy-Battle-Arena&type=Date)](https://star-history.com/#qidouhai/Philosophy-Battle-Arena&Date)
 
 ---
 
@@ -282,3 +284,5 @@ function evaluatePhilosophy(text) {
 **A:** 多参与不同主题的对垒，深入思考，注意逻辑自洽性，尝试从多角度分析问题。
 
 </details>
+
+如果还有其他需要调整的地方，请随时告诉我。
